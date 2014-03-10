@@ -1,8 +1,7 @@
 package com.test;
 
-public class HW {
+public class Another {
 	public static void main(String[] args){
-		System.out.println("Hello world");
 		
 	}
 }
